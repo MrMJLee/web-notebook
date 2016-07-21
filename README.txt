@@ -1,4 +1,4 @@
--159.352 Assignment 2-
+-Online NoteBook-
 
 * This 'Notebook' allows a user to 'Add', 'Edit', 'Delete', 'Search' and basic 'Show' for your notes.
 * Login is required to add, edit and delete entries.
