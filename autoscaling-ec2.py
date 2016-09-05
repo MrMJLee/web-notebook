@@ -1,11 +1,11 @@
 import boto.ec2.autoscale
-
 from boto.ec2.autoscale import LaunchConfiguration
 from boto.ec2.autoscale import AutoScalingGroup
 from boto.ec2.autoscale import ScalingPolicy
 from boto.ec2.cloudwatch import MetricAlarm
 import sys
 
+#### You must use your own AWS infomration to run this script ##### 
 ACCESS_KEY="<your own AWS access key>"
 SECRET_KEY="<your own AWS secret key>"
 
